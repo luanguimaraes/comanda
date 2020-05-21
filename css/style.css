@@ -1,0 +1,57 @@
+body{
+  background-image: url('../img/assados.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#interface{
+  width: 900px;
+  padding-bottom: 50px;
+  margin: auto;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 1px 1px 10px;
+}
+
+h1{
+  padding: 30px;
+}
+
+table{
+  border: 1px solid black;
+  margin: auto;
+}
+
+
+th{
+  padding: 20px;
+}
+
+tr{
+  padding: 50px;
+  box-shadow: 1px 1px;
+}
+
+td{
+  padding: 5px 70px 5px 70px;
+}
+
+.subtitulo{
+  background-color: rgb(200, 200, 200);
+  font-size: 15px;
+}
+
+input{
+  width: 40px;
+  padding-right: -20px;
+}
+
+#total td{
+  padding-top: 50px;
+}
+
+#botao{
+  margin: 20px;
+  padding: 20px;
+}
